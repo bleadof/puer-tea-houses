@@ -1,8 +1,8 @@
 # Tea houses where you can sample puer
 
-[Edit on github](https://github.com/bleadof/puer-tea-houses/edit/master/README.md)
+[Edit on github](https://github.com/bleadof/puer-tea-houses/edit/master/src/render/index.html.md)
 
-Name                                                                             | Location 
+Name                                                                             | Location
 ---------------------------------------------------------------------------------|-----------------------
 [Pod stromem cajovym](http://www.cajovnapodstromem.cz/)                          | Prague, Czech Republic
 [Dobrá Čajovna ](https://en.wikipedia.org/wiki/Dobr%C3%A1_%C4%8Dajovna)          | Prague, Czech Republic

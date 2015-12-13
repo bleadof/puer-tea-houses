@@ -1,0 +1,27 @@
+{
+  "name": "puer-tea-houses",
+  "version": "0.0.1",
+  "description": "[Edit on github](https://github.com/bleadof/puer-tea-houses/edit/master/README.md)",
+  "main": "index.html.md",
+  "dependencies": {
+    "docpad-plugin-ghpages": "~2.4.4",
+    "docpad-plugin-marked": "~2.3.0",
+    "docpad-plugin-stylus": "~2.11.0"
+  },
+  "devDependencies": {
+    "docpad": "~6.78.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bleadof/puer-tea-houses.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/bleadof/puer-tea-houses/issues"
+  },
+  "homepage": "https://github.com/bleadof/puer-tea-houses#readme"
+}
