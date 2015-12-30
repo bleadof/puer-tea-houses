@@ -1,0 +1,22 @@
+@require "./resolutions.styl"
+
+html
+  width 100%
+  margin 0
+  padding 0
+
+body
+  width 100%
+  margin auto
+  padding 0
+  @media screen and (min-width: tiny-width)
+    max-width 95%
+
+  @media screen and (min-width: small-width)
+    max-width 85%
+
+  @media screen and (max-width: medium-width)
+    max-width 60%
+
+section
+  margin auto
