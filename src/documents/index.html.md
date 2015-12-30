@@ -1,4 +1,8 @@
-# Tea houses where you can sample puer
+---
+title: "Tea houses & puer sampling"
+layout: "default"
+isPage: true
+---
 
 [Edit on github](https://github.com/bleadof/puer-tea-houses/edit/master/src/render/index.html.md)
 
