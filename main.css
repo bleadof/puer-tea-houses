@@ -1,0 +1,67 @@
+html {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+body {
+  width: 100%;
+  margin: auto;
+  padding: 0;
+}
+@media screen and (min-width: 360px) {
+  body {
+    max-width: 95%;
+  }
+}
+@media screen and (min-width: 640px) {
+  body {
+    max-width: 85%;
+  }
+}
+@media screen and (max-width: 800px) {
+  body {
+    max-width: 60%;
+  }
+}
+section {
+  margin: auto;
+}
+html,
+body {
+  font: 14px "Lucida Grande", "Arial", sans-serif;
+  background-color: #ffece9;
+  color: #000;
+}
+a {
+  color: #c42006;
+  text-decoration: none;
+}
+a:visited {
+  color: #791404;
+}
+header {
+  text-align: right;
+}
+header h1 {
+  text-transform: uppercase;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+th {
+  font-weight: bold;
+  text-transform: uppercase;
+}
+td,
+th {
+  padding: 6px;
+  border: 0px;
+  text-align: left;
+}
+tr {
+  border-bottom: 1px solid #9f5448;
+}
+tbody tr:nth-of-type(odd) {
+  background: #ffcfc8;
+}

@@ -1,0 +1,21 @@
+@require "./colours"
+
+table
+  width 100%
+  border-collapse collapse
+
+th
+  font-weight bold
+  text-transform uppercase
+
+td, th
+  padding 6px
+  border 0px
+  text-align left
+
+tr
+  border-bottom 1px solid table-border-colour
+
+tbody
+  tr:nth-of-type(odd)
+    background table-row-odd-background
